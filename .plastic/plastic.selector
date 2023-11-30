@@ -1,0 +1,4 @@
+repository "杀戮尖塔@ssl://soraku7@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
